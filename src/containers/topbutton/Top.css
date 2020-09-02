@@ -6,7 +6,8 @@
   z-index: 99;
   border: none;
   outline: none;
-  background-color: #55198b;
+  /* background-color: #55198b; */
+  background-color: rgb(230, 134, 190);
   color: white;
   cursor: pointer;
   padding: 15px;

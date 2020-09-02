@@ -154,29 +154,7 @@ const bigProjects = {
   ]
 };
 
-// Your Achievement Section Include Your Certification Talks and More
 
-const achievementSection = {
-
-  title: emoji("Achievements And Certifications 🏆 "),
-  subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
-
-  achivementsCards: [
-    {
-      title: "",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Award Letter", url: "" },
-        { name: "Google Code-in Blog", url: "" }
-      ]
-    },
-
-
-   
-  ]
-};
 
 // Blogs Section
 
@@ -201,15 +179,7 @@ const blogSection = {
 };
 
 
-// Podcast Section
 
-const podcastSection = {
-  title: emoji("Podcast 🎙️"),
-  subtitle: "",
-
-  // Please Provide with Your Podcast embeded Link
-  podcast: [""]
-};
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
@@ -225,4 +195,4 @@ const twitterDetails = {
   userName : "diana_pulatovaa"//Replace "twitter" with your twitter username without @
   
 };
-export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, podcastSection, contactInfo , twitterDetails};
+export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, blogSection, contactInfo , twitterDetails};
