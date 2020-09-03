@@ -6,7 +6,7 @@
 import emoji from "react-easy-emoji";
 
 const greeting = {
-  /* Your Summary And Greeting Section */
+  /*  Summary And Greeting Section */
   username: "Diana Pulatova",
   title: "Hi all, I'm Diana",
   subTitle: emoji("A passionate Software Engineer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
@@ -20,10 +20,12 @@ const socialMediaLinks = {
   github: "https://github.com/dianapulatova",
   linkedin: "https://www.linkedin.com/in/diana-pulatova/",
   gmail: "dianapulatovaa@gmail.com",
-  gitlab: "",
-  facebook: "",
-  medium: "",
-  stackoverflow: ""
+  gitlab: "https://gitlab.com/dianapulatova",
+  facebook: "https://www.facebook.com/diana.pulatovaa",
+  medium: "https://medium.com/@dianapulatovaa",
+  stackoverflow: "https://stackoverflow.com/users/13675755/diana",
+  twitter: "https://twitter.com/Diana_Pulatovaa",
+  instagram: "https://www.instagram.com/diana_pulatovaa/"
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -38,8 +40,7 @@ const skillsSection = {
     emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
   ],
 
-/* Make Sure You include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
+
 
   softwareSkills: [
     {
@@ -102,11 +103,11 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "100%"
+      progressPercentage: "85%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "100%"
+      progressPercentage: "95%"
     }
   ]
 };
