@@ -20,12 +20,12 @@ const socialMediaLinks = {
   github: "https://github.com/dianapulatova",
   linkedin: "https://www.linkedin.com/in/diana-pulatova/",
   gmail: "dianapulatovaa@gmail.com",
-  gitlab: "https://gitlab.com/dianapulatova",
-  facebook: "https://www.facebook.com/diana.pulatovaa",
-  medium: "https://medium.com/@dianapulatovaa",
-  stackoverflow: "https://stackoverflow.com/users/13675755/diana",
-  twitter: "https://twitter.com/Diana_Pulatovaa",
-  instagram: "https://www.instagram.com/diana_pulatovaa/"
+  // gitlab: "https://gitlab.com/dianapulatova",
+  // facebook: "https://www.facebook.com/diana.pulatovaa",
+  // medium: "https://medium.com/@dianapulatovaa",
+  // stackoverflow: "https://stackoverflow.com/users/13675755/diana",
+  // twitter: "https://twitter.com/Diana_Pulatovaa",
+  // instagram: "https://www.instagram.com/diana_pulatovaa/"
   // Instagram and Twitter are also supported in the links!
 };
 
