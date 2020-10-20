@@ -155,6 +155,9 @@ const bigProjects = {
   ]
 };
 
+//  Personal projects
+
+
 
 
 // Blogs Section
