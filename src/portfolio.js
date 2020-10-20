@@ -84,8 +84,8 @@ const skillsSection = {
     },
 
     {
-      skillName: "go",
-      fontAwesomeClassname: "fab fa-gopher"
+      skillName: "Go",
+      fontAwesomeClassname: "fab fa-golang"
     }
 
    
