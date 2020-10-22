@@ -162,25 +162,25 @@ const bigProjects = {
 
 // Blogs Section
 
-// const blogSection = {
+const blogSection = {
 
-//   title: "Blogs",
-//   subtitle: "New post is coming soon!",
+  title: "Blogs",
+  subtitle: "New post is coming soon!",
 
-//   blogs: [
+  blogs: [
     
-//     {
-//       url: "",
-//       title: "",
-//       description: ""
-//     },
-//     {
-//       url: "",
-//       title: "",
-//       description: ""
-//     }
-//   ]
-// };
+    {
+      url: "",
+      title: "",
+      description: ""
+    },
+    {
+      url: "",
+      title: "",
+      description: ""
+    }
+  ]
+};
 
 
 
