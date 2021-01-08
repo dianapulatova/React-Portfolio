@@ -170,9 +170,9 @@ const blogSection = {
   blogs: [
     
     {
-      url: "",
-      title: "",
-      description: ""
+      url: "https://dianapulatova.medium.com/learn-go-with-me-part-1-8d1c4b255989",
+      title: "Learn GO with me",
+      description: "Golang Tutorial"
     },
     {
       url: "",
