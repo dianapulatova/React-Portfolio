@@ -172,6 +172,7 @@ const blogSection = {
     {
       url: "https://dianapulatova.medium.com/learn-go-with-me-part-1-8d1c4b255989",
       title: "Learn GO with me",
+      image: require("./assets/images/go-run-go-pic1.png"),
       description: "Golang Tutorial"
     },
     {
