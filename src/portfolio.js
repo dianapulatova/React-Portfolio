@@ -190,7 +190,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+1(917) 708-0907",
-  // email_address: "dianapulatovaa@gmail.com"
+  email_address: "yourtechgirlnextdoor@gmail.com"
 };
 
 //Twitter Section
