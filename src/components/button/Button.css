@@ -1,6 +1,8 @@
 .main-button {
-  background-color: #55198b;
-  border: solid 1px #55198b;
+  /* background-color: #55198b;
+  border: solid 1px #55198b; */
+  background-color: rgb(231, 26, 122);
+  border: solid 1px rgb(231, 26, 122);
   color: white;
   font-weight: 700;
   width: max-content;
