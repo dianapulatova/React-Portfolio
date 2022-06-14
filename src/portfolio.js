@@ -125,7 +125,7 @@ const workExperiences = {
       company: "Freelancer",
       companylogo: require("./assets/images/freelancer-1.svg"),
       date: "July 2020 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
   ]
 };
@@ -142,18 +142,18 @@ const openSource = {
 
 // Some Big Projects You have worked with your company
 
-const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
-  projects: [
-    {
-      name: "Talkque",
-      image: require("./assets/images/talkque.png"),
-      link: "http://talkque.com/"
-    },
+// const bigProjects = {
+//   title: "Big Projects",
+//   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+//   projects: [
+//     {
+//       name: "Talkque",
+//       image: require("./assets/images/talkque.png"),
+//       link: ""
+//     },
     
-  ]
-};
+//   ]
+// };
 
 //  Personal projects
 
