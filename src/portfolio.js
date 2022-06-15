@@ -10,7 +10,7 @@ const greeting = {
   username: "Diana Pulatova",
   title: "Hi all, I'm Diana",
   subTitle: emoji("A passionate Software Engineer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
-  resumeLink: ""
+  // resumeLink: ""
 };
 
 // Social Media Link
@@ -23,9 +23,9 @@ const socialMediaLinks = {
   // gitlab: "https://gitlab.com/dianapulatova",
   // facebook: "https://www.facebook.com/diana.pulatovaa",
   medium: "https://medium.com/@dianapulatovaa",
-  // stackoverflow: "https://stackoverflow.com/users/13675755/diana",
+  stackoverflow: "https://stackoverflow.com/users/13675755/diana",
   // twitter: "https://twitter.com/Diana_Pulatovaa",
-  // instagram: "https://www.instagram.com/diana_pulatovaa/"
+  instagram: "https://www.instagram.com/diana_pulatovaa/"
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -185,4 +185,4 @@ const twitterDetails = {
   userName : "diana_pulatovaa"//Replace "twitter" with your twitter username without @
   
 };
-export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, blogSection, contactInfo , twitterDetails};
+export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, blogSection, contactInfo , twitterDetails};
