@@ -140,22 +140,7 @@ const openSource = {
 };
 
 
-// Some Big Projects You have worked with your company
 
-// const bigProjects = {
-//   title: "Big Projects",
-//   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
-//   projects: [
-//     {
-//       name: "Talkque",
-//       image: require("./assets/images/talkque.png"),
-//       link: ""
-//     },
-    
-//   ]
-// };
-
-//  Personal projects
 
 
 
